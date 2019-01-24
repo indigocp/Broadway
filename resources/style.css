@@ -16,3 +16,31 @@ h1  {
   color: white;
   font-size: 18px;
 }
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+
+}
+h2  {
+  font-size: 23px
+  font-weight: bold;
+}
+h3  {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.newyork  {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(images/the-flatiron-building.png)
+}
+
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align:left;
+}
