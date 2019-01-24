@@ -1,18 +1,18 @@
 body  {
-  background-color: dimgray;
-  font-family: "Helvetica", sans-serif;
+   font-style:"Helvetica", sans-serif;
   text-align: center;
 }
 h1  {
   font-size: 70px;
   color: white;
   font-weight: bold;
-  background-image:url(/Users/cp/Broadway/resources/images/the-flatiron-building.png);
-  
-
 }
 
-p  {
-  font-size: 18px;
+.header{
+  background-image: url(/Users/cp/Broadway/resources/images/the-flatiron-building.png);
+
+}
+.nav  {
   color: white;
+  font-size: 18px;
 }
